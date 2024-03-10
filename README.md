@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently studying BSC in Computer Science at BRAC University. I like to solve problems and learn algorithms.<br>I mostly like thinking about DSA. I am trying my best to be a DSA expert.<br>I have experience in both the software and web sector. I am a MERN stack developer who contractually worked with a corporate company.<br>For a short time, I worked with Images but couldn’t feel passionate about this field. I did only one personal project around<br>image processing and its Covid cell detection from the Covid19 X-ray dataset.<br>I feel very passionate about working with NLP-based datasets. I like to collect textual data from different sources and build<br>models through training. Currently, I am exploring something exceptional dataset to build a model through training.<br>Additionally, I am exploring the effectiveness of GPT with federated learning.<br>I am a machine learning/deep learning engineer job seeker.
+Currently, I am an NLP Engineer at Synteo.AI.
+
+As an NLP Engineer, I am gaining experience on core LLM structures, transformers, cloud deployment, MLOps etc. 
+
+I feel passionate with having independent research on Natural Language Processing & Large Language Models as I have pursued my University thesis on this field. I like to keep track of various types of Language models. Additionally, I am exploring the effectiveness of GPT with federated learning.
+
+ I also worked with image data and continued as a Machine vision engineer at BRACU Mars Rover Team, Mongoltori. Here, I labeled data and trained model using YoloV5 which is my turning point of learning AI and Machine Vision. 
+
+Furthermore, I am exploring Yolo, VGG19, SSDmobilenet for building skills on Machine Vision.
 
 
 ## 🌐 Socials:
