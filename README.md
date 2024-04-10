@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumik deb Niloy</h1>
+<h1 align="center">Hi 👋, I'm Soumik Deb Niloy</h1>
 <h3 align="center">A passionate NLP Engineer from Bangladesh</h3>
 
 # 💫 About Me:
