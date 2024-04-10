@@ -11,6 +11,8 @@ I feel passionate with having independent research on Natural Language Processin
  I also worked with image data and continued as a Machine vision engineer at BRACU Mars Rover Team, Mongoltori. Here, I labeled data and trained model using YoloV5 which is my turning point of learning AI and Machine Vision. 
 
 Furthermore, I am exploring Yolo, VGG19, SSDmobilenet for building skills on Machine Vision.
+
+- 💬 Ask me about **ML, DL, NLP**
 - 📫 How to reach me **d19niloy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
