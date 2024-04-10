@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Soumik deb Niloy</h1>
+<h3 align="center">A passionate NLP Engineer from Bangladesh</h3>
+
 # 💫 About Me:
 Currently, I am an NLP Engineer at Synteo.AI.
 
@@ -11,6 +14,7 @@ Furthermore, I am exploring Yolo, VGG19, SSDmobilenet for building skills on Mac
 
 
 ## 🌐 Socials:
+- 📫 How to reach me **d19niloy@gmail.com**
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumikdeb.niloy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumik-deb-niloy-22ab431a5) 
 
 # 💻 Tech Stack:
