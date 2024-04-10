@@ -30,11 +30,7 @@ Furthermore, I am exploring Yolo, VGG19, SSDmobilenet for building skills on Mac
 ![](https://github-readme-stats.vercel.app/api?username=S18-Niloy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=S18-Niloy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S18-Niloy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s18-niloy&show_icons=true&locale=en&layout=compact" alt="s18-niloy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s18-niloy&show_icons=true&locale=en" alt="s18-niloy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s18-niloy&" alt="s18-niloy" /></p>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=S18-Niloy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
