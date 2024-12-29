@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soumik Deb Niloy</h1>
-<h3 align="center">A passionate NLP Engineer from Bangladesh</h3>
+<h3 align="center">A passionate NLP Researcher from Bangladesh</h3>
 
 # 💫 About Me:
-Currently, I am an NLP Engineer at Synteo.AI.
+Currently, I am an independent AI/ML/NLP Engineer.
 
-As an NLP Engineer, I am gaining experience on core LLM structures, transformers, cloud deployment, MLOps etc. 
+As an NLP Enthusiast, I am gaining experience on core LLM structures, transformers, MLOps etc. 
 
 I feel passionate with having independent research on Natural Language Processing & Large Language Models as I have pursued my University thesis on this field. I like to keep track of various types of Language models. Additionally, I am exploring the effectiveness of GPT with federated learning.
 
