@@ -2,7 +2,7 @@
 <h3 align="center">A passionate NLP Researcher from Bangladesh</h3>
 
 # 💫 About Me:
-Currently, I am an independent AI/ML/NLP Engineer.
+Currently, I am an independent AI/ML/NLP Researcher.
 
 As an NLP Enthusiast, I am gaining experience on core LLM structures, transformers, MLOps etc. 
 
