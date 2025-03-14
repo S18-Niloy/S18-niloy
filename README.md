@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumik Deb Niloy</h1>
-<h3 align="center">A passionate NLP Researcher from Bangladesh</h3>
+<h3 align="center">A passionate Computer Science Researcher from Bangladesh</h3>
 
 # 💫 About Me:
 Currently, I am an independent AI/ML/NLP Researcher.
