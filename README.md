@@ -67,10 +67,6 @@ Currently exploring:
 
 <br>
 
-<img src="https://github.com/S18-Niloy/S18-Niloy/blob/main/assets/achievement_certificate.png" alt="BLP Workshop 2025 Certificate" width="500"/>
-
-<br><br>
-
 🏆 **Leaderboard Snapshot:**  
 *(Proof of 5th Place Achievement among 152 Participants)*  
 
