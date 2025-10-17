@@ -65,12 +65,8 @@ Currently exploring:
 <br>
 
 🏆 **Leaderboard Snapshot:**  
-*(Proof of 5th Place Achievement among 152 Participants)*  
 
 <img src="BLP.png" alt="BLP Leaderboard" width="600"/>
-
-*(Replace with your actual leaderboard image or a public link)*
-
 </div>
 
 ---
