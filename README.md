@@ -62,9 +62,6 @@ Currently exploring:
 🌟 **5th Place – BLP Workshop 2025 (IJCNLP–AACL)**  
 *Task: Code Generation in Bengali | Field: LLMs, Prompt Engineering, Computational Linguistics*
 
-📜 **Featured Research Work:**  
-“Mitigation of Hallucination and Interpretations of Self Attention of Mistral 7B” — Published via BRAC University Repository.
-
 <br>
 
 🏆 **Leaderboard Snapshot:**  
