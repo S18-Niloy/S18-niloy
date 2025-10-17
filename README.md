@@ -67,7 +67,7 @@ Currently exploring:
 🏆 **Leaderboard Snapshot:**  
 *(Proof of 5th Place Achievement among 152 Participants)*  
 
-<img src="https://github.com/S18-Niloy/S18-Niloy/blob/main/assets/leaderboard.png" alt="BLP Leaderboard" width="600"/>
+<img src="BLP.png" alt="BLP Leaderboard" width="600"/>
 
 *(Replace with your actual leaderboard image or a public link)*
 
