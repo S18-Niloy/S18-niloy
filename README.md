@@ -8,8 +8,7 @@ Currently, I work as a **Researcher (Project-Based)** at **BRAC University** and
 As an **NLP Enthusiast**, I explore **Large Language Models (LLMs)**, **Transformer Interpretability**, **MLOps**, and **Agentic AI Systems**.  
 My recent works include **Bangla-to-Python code generation**, **AI hallucination mitigation**, and **bioinformatics model development** using **Graph Neural Networks (GNNs)**.
 
-Earlier, I served as a **Machine Vision Engineer** at the **BRACU Mars Rover Team (Mongol Tori)**, where I labeled datasets and trained **YOLOv5** models for real-time rock and mechanical tool detection.  
-That hands-on experience sparked my long-term interest in **AI and Machine Vision**.
+Earlier, I served as a **Machine Vision Engineer** at the **BRACU Mars Rover Team (Mongol Tori)**, where I labeled datasets and trained **YOLOv5** models for real-time rock and mechanical tool detection — an experience that sparked my long-term interest in **AI and Machine Vision**.
 
 Currently exploring:  
 - 🧠 Large Language Models, Federated Learning  
@@ -42,11 +41,44 @@ Currently exploring:
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 </p>
+
+---
+
+# 🧪 Featured Research & Projects
+- 🧬 **KEMP-PIP:** Feature-fusion-based model for peptide prediction using ESM embeddings and K-mer features. [🔗 GitHub](https://github.com/S18-Niloy/KEMP-PIP)
+- 🧫 **Cervix Cancer Region Analysis:** Hybrid GNN (GCN+GAT) for image-based cancer classification.
+- 🤖 **Bangla-to-Python Code Generation:** Agentic LLM system for generating Python code from Bangla prompts (BLP Workshop 2025 – 5th place 🏆).
+- 📜 **Mitigation of Hallucination in Mistral 7B:** Research on hallucination detection in LLMs. [🔗 Publication](https://dspace.bracu.ac.bd:8443/xmlui/handle/10361/22762)
+
+---
+
+# 🏅 Achievements & Recognition
+<div align="center">
+  
+🌟 **5th Place – BLP Workshop 2025 (IJCNLP–AACL)**  
+*Task: Code Generation in Bengali | Field: LLMs, Prompt Engineering, Computational Linguistics*
+
+📜 **Featured Research Work:**  
+“Mitigation of Hallucination and Interpretations of Self Attention of Mistral 7B” — Published via BRAC University Repository.
+
+<br>
+
+<img src="https://github.com/S18-Niloy/S18-Niloy/blob/main/assets/achievement_certificate.png" alt="BLP Workshop 2025 Certificate" width="500"/>
+
+<br><br>
+
+🏆 **Leaderboard Snapshot:**  
+*(Proof of 5th Place Achievement among 152 Participants)*  
+
+<img src="https://github.com/S18-Niloy/S18-Niloy/blob/main/assets/leaderboard.png" alt="BLP Leaderboard" width="600"/>
+
+*(Replace with your actual leaderboard image or a public link)*
+
+</div>
 
 ---
 
@@ -62,14 +94,6 @@ Currently exploring:
 
 ---
 
-### 🧪 Featured Research & Projects
-- 🧬 **KEMP-PIP:** Feature-fusion-based model for peptide prediction using ESM embeddings and K-mer features. [🔗 GitHub](https://github.com/S18-Niloy/KEMP-PIP)
-- 🧫 **Cervix Cancer Region Analysis:** Hybrid GNN (GCN+GAT) for image-based cancer classification.
-- 🤖 **Bangla-to-Python Code Generation:** Agentic LLM system for generating Python code from Bangla prompts (BLP Workshop 2025 – 5th place 🏆).
-- 📜 **Mitigation of Hallucination in Mistral 7B:** Research on hallucination detection in LLMs. [🔗 Publication](https://dspace.bracu.ac.bd:8443/xmlui/handle/10361/22762)
-
----
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
@@ -77,4 +101,3 @@ Currently exploring:
 
 [![](https://visitcount.itsvg.in/api?id=S18-Niloy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly enhanced by ChatGPT & GPRM -->
